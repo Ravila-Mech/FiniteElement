@@ -12,5 +12,4 @@ Please reach out if you have any questions or just to connect!
 
 Thanks
 
-
-Finite Element Methods practice and projects
+Rafael Avila
